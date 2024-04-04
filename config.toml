@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'SIGNAL FOCUSED'
+
+[params]
+dateFormat = "Jan 2, 2006"
