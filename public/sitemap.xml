@@ -2,36 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://example.org/authors/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/digital-entertainment/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/fantasy-football/</loc>
+    <loc>https://example.org/categories/digital-entertainment/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/my-fifth-post/</loc>
+    <loc>https://example.org/categories/fantasy-football/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/my-first-post/</loc>
+    <loc>https://example.org/authors/lance-turbes/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/my-fourth-post/</loc>
+    <loc>https://example.org/my-fifth-post/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/my-second-post/</loc>
+    <loc>https://example.org/my-first-post/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/my-third-post/</loc>
+    <loc>https://example.org/my-fourth-post/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/original-art/</loc>
+    <loc>https://example.org/my-second-post/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://example.org/my-seventh-post/</loc>
     <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://example.org/my-sixth-post/</loc>
+    <lastmod>2024-04-04T11:23:36-07:00</lastmod>
+  </url><url>
+    <loc>https://example.org/my-third-post/</loc>
+    <lastmod>2024-04-04T11:23:36-07:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2024-04-04T11:23:36-07:00</lastmod>
+  </url><url>
+    <loc>https://example.org/authors/the-wayward-pooch/</loc>
+    <lastmod>2024-04-04T11:23:36-07:00</lastmod>
   </url>
 </urlset>

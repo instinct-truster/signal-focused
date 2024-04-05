@@ -5,7 +5,7 @@ draft: false
 description: "This is a description."
 image: "/images/CINCINNATI+BENGALS.png"
 imageBig: "/images/CINCINNATI+BENGALS.png"
-categories: ["fantasy football", "digital entertainment", "original art"]
+categories: ["fantasy football"]
 authors: ["Lance Turbes"]
 avatar: "/images/most+interesting+man.png"
 ---

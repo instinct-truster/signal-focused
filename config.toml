@@ -1,6 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'SIGNAL FOCUSED'
 
 [params]
 dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+category = "categories"
+author = "authors"

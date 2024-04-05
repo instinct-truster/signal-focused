@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SIGNAL FOCUSED</title>
-    <link>https://example.org/</link>
-    <description>Recent content on SIGNAL FOCUSED</description>
+    <title>Lance Turbes on SIGNAL FOCUSED</title>
+    <link>https://example.org/authors/lance-turbes/</link>
+    <description>Recent content in Lance Turbes on SIGNAL FOCUSED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2024 11:23:36 -0700</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 11:23:36 -0700</lastBuildDate><atom:link href="https://example.org/authors/lance-turbes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fifth Post</title>
       <link>https://example.org/my-fifth-post/</link>
@@ -40,24 +40,6 @@
       <pubDate>Thu, 04 Apr 2024 11:23:36 -0700</pubDate>
       
       <guid>https://example.org/my-second-post/</guid>
-      <description>Test Content.</description>
-    </item>
-    
-    <item>
-      <title>My Seventh Post</title>
-      <link>https://example.org/my-seventh-post/</link>
-      <pubDate>Thu, 04 Apr 2024 11:23:36 -0700</pubDate>
-      
-      <guid>https://example.org/my-seventh-post/</guid>
-      <description>Test Content.</description>
-    </item>
-    
-    <item>
-      <title>My Sixth Post</title>
-      <link>https://example.org/my-sixth-post/</link>
-      <pubDate>Thu, 04 Apr 2024 11:23:36 -0700</pubDate>
-      
-      <guid>https://example.org/my-sixth-post/</guid>
       <description>Test Content.</description>
     </item>
     
