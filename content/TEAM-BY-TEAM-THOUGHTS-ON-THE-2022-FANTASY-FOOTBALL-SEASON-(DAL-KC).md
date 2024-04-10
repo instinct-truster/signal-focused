@@ -1,8 +1,8 @@
 ---
-title: "My Fifth Post"
-date: 2024-04-04T11:23:36-07:00
+title: "TEAM BY TEAM THOUGHTS ON THE 2022 FANTASY FOOTBALL SEASON (DAL-KC)"
+date: 2022-06-17T11:23:36-07:00
 draft: false
-description: "This is a description."
+description: "Despite being a team that on paper looks quite similar to their 2021 version, I’m having mixed feelings on how this season could play out for the Cowboys passing offense."
 image: "/images/HOUSTON+TEXANS.png"
 imageBig: "/images/HOUSTON+TEXANS.png"
 categories: ["fantasy football"]

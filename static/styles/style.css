@@ -121,6 +121,8 @@ a {
   width: 200px;
   height: 200px;
   object-fit: cover;
+  border-radius: 10px;
+  border: 2px solid gray;
 }
 
 .listItemText {
@@ -292,6 +294,17 @@ a {
 }
 
 /* RIGHTBAR END */
+
+/* CATEGORIES BEGIN */
+
+.categories {
+  padding: 5px 10px;
+  background-color: var(--bgSoft);
+  color: var(--textSoft);
+  border-radius: 5px;
+}
+
+/* CATEGORIES END */
 
 @media (max-width: 1536px) {
   .container {
