@@ -11,7 +11,10 @@ avatar: "/images/most+interesting+man.png"
 ---
 
 JONATHAN TAYLOR (RB) Indianapolis Colts
-Earliest: 1.01 Latest: 1.03
+
+Earliest: 1.01
+
+Latest: 1.03
 
 2020 15.39 FPPG (14) Indianapolis Colts (21)
 

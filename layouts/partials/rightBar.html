@@ -1,3 +1,9 @@
 <div class="rightBar">
-  <img class="rightBarImage" src="/images/FFPC.jpg" alt="ad" />
+  {{ if (in .Params.categories "fantasy football" )}}
+    <img class="rightBarImage" src="/images/FFPC.jpg" alt="ad" />
+  {{ end }}
+  
+  {{ if (in .Params.categories "digital entertainment" )}}
+    <img class="rightBarImage" src="/images/steamcards.png" alt="ad" />
+  {{ end }} 
 </div>

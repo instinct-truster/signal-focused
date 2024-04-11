@@ -7,10 +7,11 @@
 }
 
 :root {
-  --bg: #0b1529;
-  --bgSoft: #1f3050;
-  --text: #dee4eb;
-  --textSoft: #cbd2d9;
+  --bg: #191919;
+  --bgSoft: #7c7c7c;
+  --text: #ffffff;
+  --textSoft: #e0e0e0;
+  scrollbar-color: grey rgb(35, 35, 35);
 }
 
 * {
@@ -26,8 +27,8 @@ body {
 }
 
 body.light {
-  --bg: #dee4eb;
-  --text: #0b1529;
+  --bg: #ffffff;
+  --text: #191919;
 }
 
 a {
@@ -59,8 +60,15 @@ a {
   transition: background-color 1s;
 }
 
+.signal-focused-logo {
+  height: 36px;
+  width: 36px;
+}
+
 .logo {
-  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-size: 24px;
 }
 
@@ -96,13 +104,41 @@ a {
 .footer {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   height: 100px;
   font-size: 14px;
+  justify-content: space-between;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: space-between;
+  flex: 1;
+}
+
+/* .footer-wrapper {
+  display: flex;
+} */
+
+.jesus-image,
+.usa-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 9px 4px #ffffff;
+  animation: glow 3s linear infinite alternate;
+}
+
+@keyframes glow {
+  to {
+    box-shadow: 0px 0px 7px 7px white;
+  }
 }
 
 .social {
   display: flex;
+  align-items: center;
   gap: 10px;
 }
 
@@ -122,7 +158,7 @@ a {
   height: 200px;
   object-fit: cover;
   border-radius: 10px;
-  border: 2px solid gray;
+  border: 2px solid rgb(248, 116, 15);
 }
 
 .listItemText {
@@ -213,10 +249,10 @@ a {
   font-size: 48px;
 }
 
-.singleHeadDescription {
+/* .singleHeadDescription {
   font-size: 20px;
   font-weight: 300;
-}
+} */
 
 .singleHeadDetail {
   display: flex;
@@ -240,12 +276,12 @@ a {
   font-size: 14px;
 }
 
-.singleHeadImage {
+/* .singleHeadImage {
   display: flex;
   max-height: 350px;
   object-fit: cover;
   flex: 1;
-}
+} */
 
 .singleBottom {
   display: flex;

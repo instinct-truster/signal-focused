@@ -11,6 +11,7 @@ avatar: "/images/most+interesting+man.png"
 ---
 
 KYLE PITTS (TE) Atlanta Falcons
+
 Earliest: 1.01 Latest: 1.04
 
 2020 26.69 FPPG (8) Florida Gators (20)

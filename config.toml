@@ -1,8 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://signalfocused.com/'
 languageCode = 'en-us'
 title = 'SIGNAL FOCUSED'
 
-paginate = 4
+paginate = 6
 
 [params]
 dateFormat = "Jan 2, 2006"
