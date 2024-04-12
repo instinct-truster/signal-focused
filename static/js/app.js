@@ -1,5 +1,5 @@
 const mode = localStorage.getItem("mode") || "";
-const toggle = document.querySelector(".toggleButton");
+const toggle = document.querySelector(".toggle");
 const body = document.querySelector("body");
 
 document.body.classList = mode;

@@ -20,8 +20,8 @@
         {{range (.GetTerms "categories")}}
         <a href="{{.Permalink}}" class="singleCategory">{{.Name}}</a>
         {{end}}
+        <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
       </div>
-      <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
     </div>
     {{/*
     <img class="singleHeadImage" src="{{.Params.imageBig}}" alt="{{.Title}}" />
