@@ -3,9 +3,6 @@
   <div class="singleHead">
     <div class="singleHeadText">
       <h2 class="singleHeadTitle">{{.Title}}</h2>
-      {{/*
-      <p class="singleHeadDescription">{{.Params.description}}</p>
-      */}}
       <div class="singleHeadDetail">
         <img
           src="{{.Params.avatar}}"
@@ -23,9 +20,6 @@
         <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
       </div>
     </div>
-    {{/*
-    <img class="singleHeadImage" src="{{.Params.imageBig}}" alt="{{.Title}}" />
-    */}}
   </div>
   <div class="singleBottom">
     <div class="singleContent">{{.Content}}</div>

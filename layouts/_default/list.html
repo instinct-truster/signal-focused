@@ -1,7 +1,6 @@
 {{define "main"}}
 <div class="list">
-  {{/* Use of "range" in hugo is similar to use of "map" in javascript. */}} {{
-  range .Paginator.Pages }}
+  {{ range .Paginator.Pages }}
   <div class="listItem">
     <a href="{{.Permalink}}">
       <img

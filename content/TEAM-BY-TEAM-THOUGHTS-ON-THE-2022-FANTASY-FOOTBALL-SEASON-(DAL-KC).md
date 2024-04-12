@@ -10,7 +10,9 @@ authors: ["Lance Turbes"]
 avatar: "/images/most+interesting+man.png"
 ---
 
-## DALLAS COWBOYS
+![Dallas Cowboys](/images/DALLAS+COWBOYS.png)
+
+DALLAS COWBOYS
 
 Despite being a team that on paper looks quite similar to their 2021 version, I’m having mixed feelings on how this season could play out for the Cowboys passing offense. At the moment it appears Michael Gallup is recovering at the expected pace, but he joins a list of highly talented players who are dealing with late to very late-season injuries.
 
@@ -26,9 +28,9 @@ Another very hyped Cowboy is the infamous Tony Pollard. The moment Dallas drafte
 
 Aside from the pricey Lamb, you can create quite a cheap Dallas stack if that’s your game, and the upside if they gel with their new receivers could be well worth it.
 
-![Denver broncos logo over city skyline](/images/DENVER+BRONCOS.png)
+![Denver Broncos](/images/DENVER+BRONCOS.png)
 
-## DENVER BRONCOS
+DENVER BRONCOS
 
 New coaching and the addition of Russell Wilson to an already solid squad has the entire NFL world excited for 2022. Fantasy players are adding the Broncos to their must-have stacks when considering a schedule full of juicy shootout matchups that continue throughout the Money Weeks™ (final five weeks of the fantasy season) and Las Vegas has raised their betting win-total by 3.5 wins over the previous season.
 
@@ -42,7 +44,10 @@ Javonte Williams looks like a good bet to increase his own chunk of the Broncos 
 
 All in all, the vibes are hot in Denver and stacking them can be done at such a reasonable price that you can bank on a team trying to do so in your next draft.
 
+![Detroit Lions](/images/DETROIT+LIONS.png)
+
 DETROIT LIONS
+
 Detroit is another team I feel is heading in a direction I respect. They are developing a new culture while taking the slow-growth route, building via the NFL Draft and adding a few strategic (and discounted) free agents.
 
 Jared Goff struggled in his first season as a Lion, but most quarterbacks would have done the same with how injury plagued their stars were in 2021. Having to rely on a team full of backup-level talents, he showed growth and flashed a bit later in the season, managing to defeat a few respectable teams (MIN, ARI, and GB) while winning three of his final four starts of the year.
@@ -55,7 +60,10 @@ I think the entire fantasy world is asleep at the wheel when it comes to allowin
 
 If Detroit can simply receive the average amount of injuries this season, I can see them sustaining many a fantasy team. There is some real talent to be mined from this mountain.
 
+![Green Bay Packers](/images/GREEN+BAY+PACKERS.png)
+
 GREEN BAY PACKERS
+
 Las Vegas is trying to tell me that Davante Adams is only worth 1.5 wins judging by 2022 win-total lines compared to 2021, but I’m not buying it. The loss of 169 of the highest-quality targets will not be replaced by anyone currently under contract in Green Bay.
 
 I do feel that Aaron Rodgers is one of a select group of NFL quarterbacks who “makes the wide receiver” much more than the receiver makes him, but the drop off in talent from Adams to any other Packers WR is just too extreme to buy in on. Mr. Relax has been so quiet regarding not a peep of complaining about their current group, that I get the feeling they will be signing one of the more talented wide receiver free agents before this offseason is complete.
@@ -68,7 +76,10 @@ I have a hard time believing rookie Christian Watson will have enough time to gr
 
 Betting against Aaron Rodgers has been a bad bet throughout his entire career, and him falling from a top tier QB to one being drafted as the 15th quarterback off the board makes him a sweet gift for redraft players at the moment.
 
+![Houston Texans](/images/HOUSTON+TEXANS.png)
+
 HOUSTON TEXANS
+
 Not only did the Texans SWEEP the number one overall draft darling Trevor Lawrence and his Jacksonville Jaguars, they also beat the only other team (Tennessee) to sweep Jacksonville in 2021. Now THAT team-intro is what you can call a Shark Jumper™.
 
 Seriously though, after all of the previous Bill O’Brien coaching drama, followed by the cringe-worthy Deshaun Watson off-hours drama, Houston has been cleaning up their image and moving forward with some excellent drafting that should continue with their stockpile of 2023 picks.
@@ -77,9 +88,12 @@ Offensively this is a team full of fantasy backups outside of Brandin Cooks, but
 
 Some depth chart believers out there think either Marlon Mack or Rex Burkhead will lead the Texans backfield, but judging by how bets are being placed on draft boards, Dameon Pierce is the speculation favorite, going many rounds before Mack, while Burkhead can be drafted in the final round at times. I side with Pierce, but can understand the gamble for Bestball type leagues of just waiting until late and taking a shot on the veterans.
 
-For more Houston Texans knowledge from a few respected locals (as well as being one of the best new fantasy podcasts to come along), I highly recommend you try listening to their 1st and Fifteen Fantasy Football Podcast. All three of these professionals are active in high stakes fantasy football, with Chris filling in excellently as host and tech guru, Dayo being the go-to guy for dynasty and other firm counter-consensus takes, and Abib representing one of the most dominant tournament players in the fantasy world, successfully winning the FOOTBALLGUYS PLAYERS CHAMPIONSHIP (FPC) in back-to-back (2019 and 2020) seasons, which is statistically and financially an absolutely incredible feat.
+For more Houston Texans knowledge from a few respected locals (as well as being one of the best new fantasy podcasts to come along), I highly recommend you try listening to their [1st and Fifteen Fantasy Football Podcast](https://www.youtube.com/channel/UCp3sy5Zh1yOCVVmGhNisGAA). All three of these professionals are active in high stakes fantasy football, with [Chris](https://twitter.com/theoriginlchris) filling in excellently as host and tech guru, [Dayo](https://twitter.com/__Dayo) being the go-to guy for dynasty and other firm counter-consensus takes, and [Abib](https://twitter.com/skywalka2000) representing one of the most dominant tournament players in the fantasy world, successfully winning the [FOOTBALLGUYS PLAYERS CHAMPIONSHIP](https://myffpc.com/cms/public/) (FPC) in back-to-back (2019 and 2020) seasons, which is statistically and financially an absolutely incredible feat.
+
+![Indianapolis Colts](/images/INDIANAPOLIS+COLTS.png)
 
 INDIANAPOLIS COLTS
+
 I may be in the minority, but I just do not see much of any upgrade going from quarterback Carson Wentz to Matt Ryan aside from his durability. Ryan is a pro for sure, and has played in 222 out of a possible 225 regular season games since 2008. Much of his decline has been more surrounding talent related than his 37 years of age.
 
 I’ll push my minority opinion all-in by stating I’m not too thrilled about the upside of Michael Pittman compared to what I read on Twitter, and based on where he goes (12th WR off the board) in some 2022 drafts, I doubt I’ll be having him on any rosters this season. I’d prefer to wait until toward the end of drafts and bet on the forgotten Paris Campbell, or take a cheap shot on rookie Alec Pierce. Pittman was kind of a last man standing in 2021, and like Wentz, petered out down the stretch, scoring one touchdown over his final eight games, while not wowing anyone in the process.
@@ -88,7 +102,10 @@ Jonathan Taylor might be my favorite NFL player at the moment. Cool, smart guy a
 
 I’m fairly low on the Indianapolis tight end room, but there is some sweet opportunity for someone like Mo Alie-Cox or rookie Jelani Woods (or maybe a free agent TE addition?) to emerge, and Matt Ryan has an excellent history of feeding his tight ends as much as they can handle.
 
+![Jacksonville Jaguars](/images/JACKSONVILLE+JAGUARS.png)
+
 JACKSONVILLE JAGUARS
+
 As the injured Travis Etienne perfectly said regarding the 2021 Jaguar’s season… “If there was any year to miss, I missed a great one.”
 
 Etienne is a player I want as much of as possible, but to my surprise his price has gone up and up to the point where he’s valued properly and no longer feels like a bargain. James Robinson’s rehab has been steady but quiet, and I think they can make for a strong one-two punch in 2022.
@@ -97,7 +114,10 @@ Trevor Lawrence had a typical season full of struggles for a rookie quarterback,
 
 This looks like another team starting fresh with new coaching and will patiently develop their prized quarterback taking the slow and steady route. Like a flunky having to repeat a grade, things should slow down and make much more sense the second time around.
 
+![Kansas City Chiefs](/images/KANSAS+CITY+CHIEFS.png)
+
 KANSAS CITY CHIEFS
+
 Remember when Patrick Mahomes was on the trajectory of becoming the Crowned Prince of Kansas City, with pomp and circumstance and his child treated like royalty? Now he’s “inaccurate”, has a trolling sibling, and is being drafted sometimes as the 4th or even 5th quarterback off the board. Life sure moves fast.
 
 I’m still his Huckleberry, and will enjoy the discounted value as Mahomes spreads his wings and goes back to his college roots of spreading the ball around in a more Tom Brady-like manner.
@@ -111,5 +131,7 @@ One of the biggest fantasy fallers (and deservedly so) has been Clyde Edwards-He
 Since first going down with injury during his rookie season, Clyde has failed to string together more than five consecutive games at any time thereafter. Missed one game, played in two, missed three games, played in two, season ends. Played in five games, missed five games, played in five games, missed three games, played in two games, season ends.
 
 That all said, I’m still on “Team CEH” and have been scooping him up at his gigantic discount non-stop in 2022 drafts. If we are all cool with giving Saquon Barkley and Christian McCaffrey the benefit of the doubt regarding returning from constant injuries with the hopes of stringing together a healthy season, why not extend that to the 23 year old former first round pick Clyde Edwards-Helaire?
+
+---
 
 That wraps up PART TWO of a four part series. As I’ve already mentioned, feel free to use my homemade team graphics on your own site, as the subtle logo promotion would be appreciated and flattering. Be on the lookout for PART THREE coming out in the days ahead.
