@@ -10,19 +10,22 @@ authors: ["Lance Turbes"]
 avatar: "/images/most+interesting+man.png"
 ---
 
+![Kyle Pitts](/images/TE+KYLE+PITTS.png)
+
 KYLE PITTS (TE) Atlanta Falcons
 
-Earliest: 1.01 Latest: 1.04
+Earliest: 1.01 - Latest: 1.04
 
-2020 26.69 FPPG (8) Florida Gators (20)
+2020: 26.69 FPPG (8) Florida Gators (20)
 
-2019 13.53 FPPG (13) Florida Gators (19)
+2019: 13.53 FPPG (13) Florida Gators (19)
 
-2018 5.93 FPPG (3) Florida Gators (18)
+2018: 5.93 FPPG (3) Florida Gators (18)
 
 Rivals: 4-STAR (5.8) 247: 4-STAR (94) ESPN: 4-STAR (83) NFL: 4-STAR (7.19)
 
 PROSECUTION
+
 Kyle Pitts served as a reserve tight end for Florida his freshman year, playing in 11 out of 14 games as part of their special teams unit, and made it into the boxscore in 3 different games as a tight end. Florida did not have any TE’s of note on their roster in 2018, leading me to speculate on the reasons why he wasn’t more involved. (For example, fellow rookie TE Pat Freiermuth recorded at least one reception in 12 out of 13 games as a freshman for Penn State, and scored 8 touchdowns.) My thoughts include his young age, his lack of blocking prowess, and possibly an unmastered playbook.
 
 He missed two games in his final (junior) season after receiving an illegal cheap shot (targeting-ejection) that led to a concussion and needed minor facial surgery for a broken nose. He returned and played in two games, before missing yet another (the Gators final home game of the season vs. LSU) due to a “lingering injury” suffered vs. Tennessee. Pitts returned to play in their SEC Championship loss to Alabama, and then opted out prior to the Cotton Bowl.
@@ -56,6 +59,7 @@ These are classic phrases that have been tried and true heuristics in fantasy fo
 Patience will be needed.
 
 DEFENSE
+
 For a “tight end” Kyle Pitts was the ultra-rare treat to watch highlights of. I can count on one hand the number of TE’s I’ve watched over the past 30 years who had highlights that kept me from wanting to doze off.
 
 Similar to his highlights, Pitts’ 2020 season had the statistics that popped off the page and slapped you in the face.
@@ -67,6 +71,7 @@ His draft capital is record breaking, and the team-fit couldn’t get much bette
 Upside: when talent and opportunity collide!
 
 VERDICT
+
 I’ve been playing fantasy football since the early 1990’s and have seen the hype grow around players over and over again, only to watch them flop.
 
 One thing worries me big time: EVERYONE AGREES that Kyle Pitts is a sure fire 100% LOCK to be the next big thing.
@@ -93,6 +98,10 @@ Somehow he has already been coronated KING TIGHT END for dynasty fantasy footbal
 
 I’ll be fading him early on at my own risk, but likely trying to buy low after a typical slow start, or paying through the teeth in trade if he turns out to be what we all hope he can be.
 
+---
+
 SIGNAL FOCUSED DYNASTY HERO CLASS RATING:
+
 KYLE PITTS: S-CLASS HERO!!!
+
 Link to origin of this article series.

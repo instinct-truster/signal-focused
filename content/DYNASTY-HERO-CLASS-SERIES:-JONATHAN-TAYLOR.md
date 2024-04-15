@@ -10,21 +10,22 @@ authors: ["Lance Turbes"]
 avatar: "/images/most+interesting+man.png"
 ---
 
+![Jonathan Taylor](/images/RB+JONATHAN+TAYLOR.png)
+
 JONATHAN TAYLOR (RB) Indianapolis Colts
 
-Earliest: 1.01
+Earliest: 1.01 - Latest: 1.03
 
-Latest: 1.03
+2020: 15.39 FPPG (14) Indianapolis Colts (21)
 
-2020 15.39 FPPG (14) Indianapolis Colts (21)
+2019: 29.11 FPPG (14) Wisconsin Badgers (20)
 
-2019 29.11 FPPG (14) Wisconsin Badgers (20)
-
-2018 25.34 FPPG (13) Wisconsin Badgers (19)
+2018: 25.34 FPPG (13) Wisconsin Badgers (19)
 
 Rivals: 4-STAR (5.8) 247: 4-STAR (91) ESPN: 3-STAR (79) NFL: 3-STAR (6.41) 100M: 10.49 (12th Grade)
 
 PROSECUTION
+
 Fumbled 18 times during his three years at Wisconsin.
 
 Very low reception totals in high school and over his first two seasons of college.
@@ -38,6 +39,7 @@ His combined junior and senior year of high school averaged 20 touches per game,
 Prosecution rests.
 
 DEFENSE
+
 Where to begin……got a few minutes? ;-)
 
 Jonathan was born and raised in the small town of Salem (pop. 4774) New Jersey, graduating high school with honors in a class of only 69 students.
@@ -73,6 +75,7 @@ His curiosity for subtle improvement leads him (along with all of the commonly p
 Humble and wise for his age, having already set up a partnership with Toppers Pizza as a franchise owner.
 
 VERDICT
+
 Jonathan Taylor set the New Jersey state high school single season rushing record his senior year, then followed that up by setting a new NCAA record for rushing yards in a season by a freshman.
 
 He also tied the freshman record for fewest games needed to reach the 1000 yards rushing mark, sharing such honor with past superstars like Emmitt Smith, Marshall Faulk and Adrian Peterson.
@@ -89,6 +92,10 @@ Taylor’s upside in the NFL can only be matched by his curiosity and imaginatio
 
 I doubt I could rate anyone higher.
 
+---
+
 SIGNAL FOCUSED DYNASTY HERO CLASS RATING:
+
 JONATHAN TAYLOR: S-CLASS HERO!!!
+
 Link to origin of this article series.
