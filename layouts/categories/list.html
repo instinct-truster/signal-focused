@@ -6,14 +6,15 @@ $.Site.Taxonomies.categories.ByCount }}
 {{end}} {{else}}
 
 <div class="list">
-  {{/* Use of "range" in hugo is similar to use of "map" in javascript. */}} {{
-  range .Paginator.Pages }}
+  {{ range .Paginator.Pages }}
   <div class="listItem">
-    <img
-      src="{{.Params.image}}"
-      alt="{{.Title}}"
-      class="listItemImage"
-      loading="lazy" />
+    <a href="{{.Permalink}}">
+      <img
+        src="{{.Params.image}}"
+        alt="{{.Title}}"
+        class="listItemImage"
+        loading="lazy" />
+    </a>
     <div class="listItemText">
       <h2 class="listItemTitle">
         <a href="{{.Permalink}}">{{.Title}}</a>
@@ -27,7 +28,7 @@ $.Site.Taxonomies.categories.ByCount }}
           class="listItemAvatar" />
         <span
           >{{range (.GetTerms "authors" )}}
-          <a href="{{.Permalink}}">{{.Name}}</a> {{end}}</span
+          <a class="author" href="{{.Permalink}}">{{.Name}}</a> {{end}}</span
         >
         <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
       </div>

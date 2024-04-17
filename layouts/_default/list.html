@@ -22,7 +22,7 @@
           class="listItemAvatar" />
         <span
           >{{range (.GetTerms "authors" )}}
-          <a href="{{.Permalink}}">{{.Name}}</a> {{end}}</span
+          <a class="author" href="{{.Permalink}}">{{.Name}}</a> {{end}}</span
         >
         <time>{{ dateFormat .Site.Params.dateFormat .Date}}</time>
       </div>
