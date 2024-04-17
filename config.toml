@@ -2,7 +2,7 @@ baseURL = 'https://signalfocused.com/'
 languageCode = 'en-us'
 title = 'SIGNAL FOCUSED'
 
-paginate = 20
+paginate = 30
 
 [params]
 dateFormat = "Jan 2, 2006"
