@@ -8,10 +8,10 @@
 
 @font-face {
   font-display: swap;
-  font-family: "Zen Loop";
+  font-family: "Hacked";
   font-style: normal;
   font-weight: 400;
-  src: url("/fonts/zen-loop-v9-latin-regular.woff2") format("woff2");
+  src: url("/fonts/Hacked-KerX.ttf");
 }
 
 :root {
@@ -72,12 +72,11 @@ a {
 }
 
 .logo {
-  font-family: "Zen Loop";
+  font-family: "Hacked";
   display: flex;
   align-items: center;
   gap: 10px;
-  font-size: 28px;
-  font-weight: 600;
+  font-size: 32px;
 }
 
 .logo > a {
@@ -89,9 +88,8 @@ a {
   height: 36px;
   width: 36px;
   margin-left: 20px;
-  margin-bottom: 5px;
   border-radius: 50%;
-  box-shadow: 0px 0px 9px 4px #f8740f;
+  box-shadow: 0px 0px 6px 2px #f8740f;
 }
 
 .links > a {
@@ -156,6 +154,10 @@ a {
   to {
     box-shadow: 0px 0px 7px 7px var(--halo-glow);
   }
+}
+
+.site-map {
+  color: #f8740f;
 }
 
 /* FOOTER END */
