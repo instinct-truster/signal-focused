@@ -28,7 +28,8 @@ The players included in this article are the "All Bark, No Bite" Carnies you sho
 
 (Public Service Announcement: Actual Carnies may indeed bite.)
 
-Freeman Fade.png
+![Carnie Team](/images/carnie-2.png)
+
 Fade Freeman? Are you serious?
 
 I'm as serious as Homey the Clown.
@@ -37,25 +38,34 @@ Devonta Freeman is a player I respect. He's just one of those rip-off games like
 
 The problem is he's got a younger, larger, hungry tiger by the name of Tevin Coleman who has quietly been eating into his workload. A reminder from an earlier article:
 
-“Looking closely over last years stats, it appears that under new OC Steve Sarkisian, Tevin is finally getting more involved in the run game as well as showing to be more efficient with his receptions, averaging 13.6 (2016) and 11.1 (2017) to Freeman’s 8.6 (2016) and 8.8 (2017). That isn’t good. Coleman’s carries per game have gone up each year, from 7.25 (2015) to 9.18 (2016) to 10.58 (2017), including an almost even split in last years playoffs (24 carries for Tevin to 28 for Freeman).”
+_“Looking closely over last years stats, it appears that under new OC Steve Sarkisian, Tevin is finally getting more involved in the run game as well as showing to be more efficient with his receptions, averaging 13.6 (2016) and 11.1 (2017) to Freeman’s 8.6 (2016) and 8.8 (2017). That isn’t good. Coleman’s carries per game have gone up each year, from 7.25 (2015) to 9.18 (2016) to 10.58 (2017), including an almost even split in last years playoffs (24 carries for Tevin to 28 for Freeman).”_
+
 — Navigating the first few turns: Round Three
+
 Put me in the camp that thinks this split is real.
 
 I have no problem drafting Freeman, but not at his current Carnival pricing. In the three roughly $300 entry leagues I've done this month (early August) Freeman was drafted at 2.04, 2.11 and 2.11. I understand that many high stakes veterans focus on safe floors in the early rounds, but give me guys like A.J. Green, Mike Evans or even T.Y. Hilton in that range where at the very least, the competition for gameday touch-counts are tiger-free.
 
 I'd prefer to draft a high volume wide receiver over Freeman, then go pick up Tevin Coleman at his more Midway friendly 7th round price tag.
 
-McKinnon Fade.png
+![Carnie Team](/images/carnie-3.png)
+
 Ahhh, Happy Gilmore. You foul mouthed abuser of the elderly, you.
 
 My reasons for fading Jerick McKinnon fall in line with my earlier stance on Freeman, but without the rock-solid production that Freeman has on his resume. Therein lies the rub. McKinnon has no resume.
 
 Now I do give some credit to the team trust that comes with contract pedigree. The problem is that McKinnon just set his career best for touches last year, and it was less than 13 per game. If you enjoy basing your mid-2nd-to-early-3rd round investment on a sample size of games you can almost fit on one hand, then you may be related to Hilal: The Musher. (Love Hilal's endless twitter enthusiasm, but when he starts touting one of "my guys" my heart palpitates and I lose a few days off my lifespan and thus need to workout more to gain them back.)
 
-“The term “Mush” was popularized by Robert De Niro’s “A Bronx Tale,” which included a famous quote: “Eddie Mush was a degenerate gambler. He was also the biggest loser in the whole world. They called him mush because everything he touched turned to mush.”
+---
 
-Robert De Niro initially had trouble finding a suitable actor to portray Eddie Mush, so he asked Chazz Palminteri if they could find the real Eddie Mush to play himself. They found Eddie Montanaro in the same neighborhood still losing bets. When they casted him, they became worried that he might “jinx” the film. On Eddie’s first day of filming, it rained.”
+_“The term “Mush” was popularized by Robert De Niro’s “A Bronx Tale” which included a famous quote: “Eddie Mush was a degenerate gambler. He was also the biggest loser in the whole world. They called him mush because everything he touched turned to mush.”_
+
+_Robert De Niro initially had trouble finding a suitable actor to portray Eddie Mush, so he asked Chazz Palminteri if they could find the real Eddie Mush to play himself. They found Eddie Montanaro in the same neighborhood still losing bets. When they casted him, they became worried that he might “jinx” the film. On Eddie’s first day of filming, it rained.”_
+
 — realonlinegambling.com
+
+---
+
 Over his last two (best) seasons in the NFL, Jerick's rushing average (3.58 per carry) looks just like Matt Asiata. Not good.
 
 Sure, he looks pretty smooth sometimes, but his career high in scoring still stands at a measly 6 touchdowns, and that took the full 16 regular season games, plus 2 playoff games for a total of 18 games to reach.
@@ -64,7 +74,8 @@ I can get his lower-volume doppelganger Chris Thompson four or five rounds later
 
 One last thing that I can't seem to shake is the feeling that Jerick McKinnon will have a harder time than most running backs adjusting to the new rule regarding the use of the helmet as a weapon. Call it a hunch, but I think his style, unless changed, will draw many yellow flags.
 
-Hill Fade.png
+![Carnie Team](/images/carnie-4.png)
+
 Did that limb just make a crackle or am I hearing things?
 
 Too late now, I'm going further out.
@@ -93,7 +104,8 @@ That not being the case, I'll let others select "Reek" in the 3rd, and I'll go a
 
 MOUNT UP: There's a NEW sheriff in town!
 
-Drake Fade.png
+![Carnie Team](/images/carnie-5.png)
+
 When I think Alpha Male, I think of African Lions, Gray Wolves and Mountain Gorillas.
 
 Most of the time they are chill, but when challenged, watch out!
@@ -110,7 +122,8 @@ Gore has shown soft hands in the passing game throughout his career, and can pas
 
 After watching him break out last year, I do find Drake interesting, but he's just way to Carnival priced for me in the mid-to-late third round when you can draft Gore 10-to-12 rounds later and get much more bang for your fantasy buck.
 
-Watson Fade.png
+![Carnie Team](/images/carnie-6.png)
+
 Nowhere to go but down. Period.
 
 DeShaun Watson made six starts as a rookie. Not sixteen. Six.
@@ -129,7 +142,8 @@ Am I down on him? Nope. Fun player.
 
 Could you pay me to spend my 5th round pick on a freaking short resume quarterback coming off of surgery, when there are so many talented quarterbacks in 2018 that they're running around like wild Minions in Gru's Lair deep into the 15th round? Nope again.
 
-Jamaal Fade.png
+![Carnie Team](/images/carnie-7.png)
+
 Public Service Announcement #2: "Don't draft placeholders in the 7th round of your fantasy drafts."
 
 That's all Jamaal Williams is.
@@ -142,15 +156,24 @@ Once the two week suspension is complete, I expect plenty of run from Aaron Jone
 
 Some interesting quotes to consider:
 
-“I want you to know, I’m probably one of your biggest fans in this organization, so if you want to make a statement, now is your time.”
+---
+
+_“I want you to know, I’m probably one of your biggest fans in this organization, so if you want to make a statement, now is your time.”_
+
 — Aaron Rodgers to Aaron Jones in 2017 Week 4 huddle
-“He’s a good runner. We need to get him more opportunities.”
+
+_“He’s a good runner. We need to get him more opportunities.”_
+
 — Aaron Rodgers (re:Aaron Jones) post-game after playoff crushing Week 15 loss to Panthers
+
+---
+
 For a bit more reference to the upside of RB Aaron Jones, in his final three seasons a the University of Texas-El Paso, Jones averaged 22.95 FPTS per game in 2014, 26.25 FPTS per game in 2015, and a whopper-head 29.05 FPTS per game in 2016!
 
 The three Packer running backs all seem to go off the board in a similar phase of drafts, and your best bet by far is to avoid wasting that pick on Jamaal Williams.
 
-Funchess Fade.png
+![Carnie Team](/images/carnie-8.png)
+
 These aren't your parent's Panthers.
 
 "Why of course not, they were founded in 1993" you might say, but you get the point.
@@ -171,7 +194,8 @@ I laughed out loud during a recent draft when Funchess went late 5th round.
 
 Do yourself a favor and pass on that nonsense. Instead, pick up D.J. Moore in the 7th.
 
-Doyle Fade.png
+![Carnie Team](/images/carnie-9.png)
+
 Here we have back-to-back players with the same kind of scenarios playing out.
 
 Last year it was the Briscut-to-Doyley Show, where "Just-a-guy Jack" (108) went tow-to-toe with T.Y. Hilton (109) for the team lead in targets.
@@ -194,7 +218,8 @@ Jack's fantasy stats were boosted by his empty receptions (8.63 yards per catch)
 
 I do not.
 
-Woods Fade.png
+![Carnie Team](/images/carnie-10.png)
+
 That "popping" sound you just heard was from those horses over there being turned back into mice and the carriage to a pumpkin.
 
 I admit it was a pretty cool storyline last year: "USC's own Robert Woods returns home to Los Angeles."
@@ -210,6 +235,8 @@ By my math, that slots Robert Woods (at best) 4th on the target totem pole behin
 I'd much rather have the aforementioned D.J. Moore in that range or a Jordy Nelson or DeVante Parker type who should be in the mix for top two target loads on their respective teams.
 
 Chasing the 2017 Robert Woods is a move only a Pumpkin would love.
+
+---
 
 SWEET!!!
 
