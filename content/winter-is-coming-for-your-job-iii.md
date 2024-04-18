@@ -80,10 +80,13 @@ With WR Devin Funchess looking on the way out, that opens up the 80-110 targets 
 
 The Panthers could use depth all over, from backup QB, to backup RB, plus added depth at WR and TE.
 
-Best fans ever.
-Best fans ever.
+![Winter III](/images/winter-III-3.jpg)
+_Best fans ever._
 
 Buffalo Bills
+
+---
+
 I’m one of the fools who couldn’t buy in quick enough to the amazing hot streak that never ended from rookie QB Josh Allen who turned into the Yeti version of Michael Vick. Mixed in over his final six games, Josh had RUSHING totals of 95 yards, 99 yards, 101 yards and 135 yards , tacking on 5 rushing TD’s to boot! He closed 2018 out with a bang going for 319 totals yards and 5 TD’s! This coming from the guy who went all Pat Mahomes with his long balls at the Combine.
 
 One thing I love about watching the entire Combine, is how the players subtly signal to each other (non-verbal) while standing in groups together. I noticed Josh Allen radiated a ton of swagger, even though he came from a small school. That swagger sure translated to the field as he showed no fear, to the point of bordering on recklessness.
@@ -95,9 +98,12 @@ Fresh off going Cray-Cray in some hotel, WR Zay Jones was pure waiver wire fodde
 That said, the only Bills player to have job security is the Yeti. Most everything else is up for grabs.
 
 Baltimore Ravens
+
+---
+
 The biggest SIGNAL to come out of Baltimore this offseason came from the mouth of new OC Greg Roman.
 
-"(We) really want to start fresh, start new, and (with) everything from our language, our formations, how we do everything, rebuild the thing from the ground up," Roman said. "(Lamar Jackson is) a unique player with a unique skill set, so let’s build an offense that really accommodates that, as opposed to try to fit him into something that other people had once done."
+_"(We) really want to start fresh, start new, and (with) everything from our language, our formations, how we do everything, rebuild the thing from the ground up," Roman said. "(Lamar Jackson is) a unique player with a unique skill set, so let’s build an offense that really accommodates that, as opposed to try to fit him into something that other people had once done."_
 
 He basically just said, “Winter is Coming, Bitches!”
 
@@ -112,6 +118,9 @@ The only Baltimore running back that I have interest in is RB Kenneth Dixon. I�
 Like Coach Roman implied…Winter is Coming to Baltimore. Lamar and just a sprinkle of the current roster are safe, the rest better dress warm.
 
 Atlanta Falcons
+
+---
+
 The Falcons brought over inter-division rival Tampa Bay Buccaneer Head Coach Dirk Koetter to be their new offensive coordinator. Kind of weird. I mean Atlanta was a top four passing team in 2018 who sucked in the run game. Why bring over the guy who coached their team’s doppelganger?
 
 QB Matt Ryan has been on fire. He returned to 2016 form, throwing for the exact same 35 TD’s to 7 INT’s as Russell Wilson, but with an extra 1476 yards on top. Ryan finished 3rd best in the NFL in both passing yards and passing touchdowns. He’s finally getting some of the respect he’s earned by going 5th QB off the board in my most recent draft, right before Mr. Wilson.
@@ -128,8 +137,12 @@ RB Devonta Freeman was close to making it back on the field late last year, and 
 
 Hard to say regarding job ops in Atlanta, but adding either competition or depth at RB should be expected.
 
-arizona.jpg
+![Winter III](/images/winter-III-4.jpg)
+
 Arizona Cardinals
+
+---
+
 “With the first pick in the 2019 NFL Draft, the Arizona Cardinals select…”
 
 Are you telling me that future Hall of Fame WR Larry Fitzgerald, 2016 Fantasy MVP RB David Johnson, and highly touted rookie WR Christian Kirk all suddenly suck, or was rookie QB Josh Rosen in way over his head?
@@ -149,6 +162,8 @@ If the Cardinals cut the cord on mental softie Rosen, I’d heap tons of respect
 This team needs all the talent they can add. Offense, defense, you name it.
 
 Poor Cardinal fans.
+
+---
 
 Well that takes care of that!
 
